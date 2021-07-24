@@ -1,0 +1,16 @@
+Name,Location,type,Time,Rating
+S1,NYC,electronics,night,4
+S2,NYC,clothing,day,5
+S3,NYC,shoes,night,4
+S4,NYC,shoes,day,3
+S5,NYC,electronics,night,4
+S6,Los Angelos,electronics,night,4
+S7,Los Angelos,clothing,day,5
+S8,Los Angelos,shoes,night,4
+S9,Los Angelos,shoes,day,3
+S10,Los Angelos,electronics,night,4
+S6,Miami,electronics,night,4
+S7,Miami,clothing,day,5
+S8,Miami,shoes,night,4
+S9,Miami,shoes,day,3
+S10,Miami,electronics,night,4
